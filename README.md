@@ -46,3 +46,11 @@ __Melhoria 1__, melhoria 2
 Contribuidor principal: https://github.com/yuri-sanchez
 
 [![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://www.github.com/yuri-sanchez)
+
+## Código da função soma:
+
+```javascript
+function soma(a, b){
+  return A + b;
+}
+```
