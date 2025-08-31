@@ -51,6 +51,6 @@ Contribuidor principal: https://github.com/yuri-sanchez
 
 ```javascript
 function soma(a, b){
-  return A + b;
+  return a + b;
 }
 ```
