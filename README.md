@@ -54,3 +54,10 @@ function soma(a, b){
   return a + b;
 }
 ```
+
+## Listas de rarefas a fazer:
+
+- [x] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus
+- [x] Css do rodapé
